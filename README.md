@@ -1,16 +1,6 @@
 # Aplikasi-Holti-Health
 
-<p>Ini link download aplikasi holti health debug</p>
-<br>
-<a href="https://github.com/AkmalRendiansyah/Aplikasi-Holti-Health/raw/main/Holti%20Health.apk" download>
-    <button>Unduh Aplikasi debug</button>
-</a>
-<br>
-<p>ini link download aplikasi holti health release</p>
-<br>
-<a href="https://github.com/AkmalRendiansyah/Aplikasi-Holti-Health/raw/main/app-release.apk" download>
-    <button>Unduh Aplikasi holti health v-1</button>
-</a>
+
 # Holti Health
 
 ![Holti Health](https://github.com/AkmalRendiansyah/tes0/blob/main/profile.png)
@@ -74,12 +64,17 @@ Dataset links for this project:
 - [Prototype](https://www.figma.com/design/m6iKGah6lfys2IuW88qW8D/Holti-Health?node-id=0-1&node-type=canvas&t=5PlHlXHIF95f6Mws-0)
 
 ---
-
-## Deployment Link APK Holti Health
-
-- [Holti Health App](https://github.com/AkmalRendiansyah/Aplikasi-Holti-Health)
-
----
+<p>Ini link download aplikasi holti health debug</p>
+<br>
+<a href="https://github.com/AkmalRendiansyah/Aplikasi-Holti-Health/raw/main/Holti%20Health.apk" download>
+    <button>Unduh Aplikasi debug</button>
+</a>
+<br>
+<p>ini link download aplikasi holti health release</p>
+<br>
+<a href="https://github.com/AkmalRendiansyah/Aplikasi-Holti-Health/raw/main/app-release.apk" download>
+    <button>Unduh Aplikasi holti health v-1</button>
+</a>
 
 ## Languages and Tools:
 
